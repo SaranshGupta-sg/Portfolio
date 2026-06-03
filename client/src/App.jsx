@@ -4,7 +4,7 @@ import Home from './pages/Home'
 import Projects from './pages/Projects'
 import Contact from './pages/Contact'
 import About from './pages/About'
-import Navbar from './components/Navigation/Navbar'
+import Navbar from './components/Navbar'
 
 const App = () => {
   return (
