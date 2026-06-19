@@ -28,3 +28,13 @@ git push origin main
 cd "1" 
 javac DataTypes.java
 java DataTypes.java
+
+git add .
+git commit -m "new"
+git push origin main
+
+
+cd "1" 
+javac DataTypes.java
+java DataTypes.java
+
