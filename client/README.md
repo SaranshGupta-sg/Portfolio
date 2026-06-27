@@ -19,15 +19,6 @@ If you are developing a production application, we recommend using TypeScript wi
 git add .
 git commit -m "new"
 git push origin main
-0
-
-19 その 白いくるまは 田中さん(の)です。
-That white car is Mr. Tanaka's.
-1の -
-2も
-3 は
-4が
-In this sentence, の acts as the omitted noun くるま,that has been already mentioned.
 
 20 山田さんと(見た)えいがはとても おもしろかったです。
 The movie I saw with Yamada was very interesting.

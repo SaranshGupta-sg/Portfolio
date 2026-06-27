@@ -4,6 +4,7 @@ import Projects from "./pages/Projects";
 import Contact from "./pages/Contact";
 import About from "./pages/About";
 import Navbar from "./components/Navbar";
+import Carousal from "./pages/Carousal";
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
       <Projects />
       <Contact />
       <About />
+      <Carousal />
     </div>
   );
 };
