@@ -19,10 +19,3 @@ If you are developing a production application, we recommend using TypeScript wi
 git add .
 git commit -m "new"
 git push origin main
-
-20 山田さんと(見た)えいがはとても おもしろかったです。
-The movie I saw with Yamada was very interesting.
-2 見る
-4 見って
-1 見て
-3 見た -
