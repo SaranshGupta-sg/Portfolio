@@ -20,11 +20,5 @@ git add .
 git commit -m "new"
 git push origin main
 
-
-2 寝る前に、シャワーを(浴び)なきゃいけません。
-I have to take a shower before going to bed.
-2浴(あ)びて
-4浴びた
-1浴びる   to bathe
-3浴び -  
-〜なきゃいけません (-nakya ikemasen) means "must do" or "have to do."
+kaeshimashita    to return something eg-book                              
+kaerimashita - to return home
