@@ -27,3 +27,11 @@ a - Koko ii desu ka?"Is this seat okay?"
 
 エレベーターが来ました。他の人に何と言いますか。The elevator has arrived. What do you say to other people?
 a - お先にどうぞ。Osaki ni douzo.Please go first."
+
+kaeshimashita    to return something eg-book                              
+kaerimashita - to return home
+Hirugohan o tabemasu. Suwaritai desu. Nan to iimasu ka?"You're going to eat lunch. You want to sit down. What do you say?"
+a - Koko ii desu ka?"Is this seat okay?"
+
+エレベーターが来ました。他の人に何と言いますか。The elevator has arrived. What do you say to other people?
+a - お先にどうぞ。Osaki ni douzo.Please go first."
