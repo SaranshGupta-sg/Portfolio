@@ -35,3 +35,18 @@ a - Koko ii desu ka?"Is this seat okay?"
 
 エレベーターが来ました。他の人に何と言いますか。The elevator has arrived. What do you say to other people?
 a - お先にどうぞ。Osaki ni douzo.Please go first."
+
+1 そのカバンを どこで買った(か)おぼえていますか。
+Do you remember where you bought that bag?
+lの
+3を
+2が
+4か -
+The question‘その カバンを どこで買ったか。’is used as a component of a sentence.
+
+2 なにか つめたいものが(のみ)たいです。
+I want something cold to drink.
+1 のむ
+3のみ -
+2 のま
+4 のめ
