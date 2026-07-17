@@ -23,3 +23,14 @@ git push origin main
 cd "1" 
 javac DataTypes.java
 java DataTypes.java
+1.ひとが少ない です。  there are few people.
+1すかない
+3すくない -
+2すきない
+4すけない
+
+2.あめを三つとってください。 please take 3 candies (ame - candy)
+2 さんつ
+4みっつ -
+1やっつ
+3いつつ
