@@ -33,4 +33,31 @@ java DataTypes.java
 2 さんつ
 4みっつ -
 1やっつ
+
+
+
+1.ひとが少ない です。  there are few people.
+1すかない
+3すくない -
+2すきない
+4すけない
+
+2.あめを三つとってください。 please take 3 candies (ame - candy)
+2 さんつ
+4みっつ -
+1やっつ
+3いつつ
+
+3.そこに立ってください。 please stand right there.
+2まって matte - wait
+4あって atte - meet somebody
+1たって - answer tatte - stand up
+3もって motte - hold
+
+5.なにも いわないでください。 please do not say
+1行わないで
+3見わないで
+2言わないで iwanai - dont say
+4立わないで
+
 3いつつ
