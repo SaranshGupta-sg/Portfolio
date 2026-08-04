@@ -20,14 +20,5 @@ git add .
 git commit -m "new"
 git push origin main
 
-Tomodachi ni purezento o agemasu. Nani to iimasu ka? "Aap dost ko gift dete waqt kya kahenge?"
-a - Kore, dōzo."Ye lijiye.""Here you are."
 
-Takushī ni notte imasu. Eki ni ikitai desu. Nani to iimasu ka? "Aap taxi me baithe hain aur station jana chahte hain. Kya kahenge?"
-a - Eki made onegaishimasu. "Station tak, please." "Please take me to the station."
-
-Sensei no ie ni hairimasu. Nani to iimasu ka? "Aap teacher ke ghar mein enter kar rahe hain. Kya kahenge?"
-a - Shitsurei shimasu. "Excuse me." "May I come in?"
-
-Hajimete au hito ni aisatsu o shimasu. Nani to iimasu ka? "Jis vyakti se aap pehli baar mil rahe hain, usse kya kahenge?"
-a - Hajimemashite. "Nice to meet you."
+Build me a personal portfolio website for "Saransh Gupta" as a single self-contained HTML file with all CSS and JS inline and make it in ReactJs. The aesthetic is editorial fashion meets digital minimalism: dark navy frames, soft blue-white backgrounds, dramatic serif typography, and refined micro-interactions throughout.
