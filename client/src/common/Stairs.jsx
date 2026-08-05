@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Navbar = () => {
+const Stairs = () => {
   return (
     <div>
-      <h1>jii</h1>
+      hii
     </div>
   )
 }
 
-export default Navbar
+export default Stairs
