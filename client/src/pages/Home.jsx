@@ -5,6 +5,7 @@ const Home = () => {
     <div>
       <div className='h-screen w-screen fixed text-amber-700'>
         <h1>hii</h1>
+        <h2>hello git</h2>
       </div>
     </div>
   )
