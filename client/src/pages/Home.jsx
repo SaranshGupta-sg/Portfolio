@@ -9,6 +9,7 @@ const Home = () => {
         <h1>here we go again</h1>
         <h1>same as before but changing</h1>
         <h1>Do it now</h1>
+        <h1>Whenever your heart is broken, Don't ever forget you're golden.</h1>
       </div>
     </div>
   );
