@@ -10,6 +10,7 @@ const Home = () => {
         <h1>same as before but changing</h1>
         <h1>Do it now</h1>
         <h1>Whenever your heart is broken, Don't ever forget you're golden.</h1>
+        <a href="https://www.instagram.com/reel/DTXZEgvkwar/?igsh=MWtucnB1anF5bTJtaQ==" >In case you forget</a>
       </div>
     </div>
   );
