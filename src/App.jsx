@@ -1,13 +1,37 @@
-import About from "./pages/About";
+import Cursor from "./components/Cursor";
+import Navigation from "./components/Navigation";
+
 import Home from "./pages/Home";
-import Navigation from "./pages/Navigation";
+import About from "./pages/About";
+import Skills from "./pages/Skills";
+import Projects from "./pages/Projects";
+import Contact from "./pages/Contact";
 
 const App = () => {
   return (
     <>
-      <Home />
-      <About />
       <Navigation />
+      <Cursor />
+
+      <section id="home">
+        <Home />
+      </section>
+
+      <section id="about">
+        <About />
+      </section>
+
+      <section id="skills">
+        <Skills />
+      </section>
+
+      <section id="projects">
+        <Projects />
+      </section>
+
+      <section id="contact">
+        <Contact />
+      </section>
     </>
   );
 };
